@@ -70,7 +70,7 @@ This section includes links to various FeatureScripts used throughout the book. 
 FeatureScripts extend the modeling capabilities in Onshape, allowing you to create custom features and automate repetitive tasks. Feel free to explore these scripts to enhance your design workflow.
 - [C2i B19410 PACKT C2i FS Full Fillet](https://cad.onshape.com/documents/fa301370c47d688bbb46c5ba/w/15de101bb15601302a38188a/e/7775ddb5d1e1184bdb925ae5)
 
-## Other tools and utilities
+## Other tools
 Here, you'll find links to additional tools and utilities used throughout the book.
 - [C2i B19410 PACKT ISO Drawing Templates](https://cad.onshape.com/documents/27ad53f1e19d337f096c66d4/w/723cb25d35df47b22612a78d/e/2ee5fc7b3df14400d72bf1e0)
 - [C2i B19410 PACKT std.mat](https://cad.onshape.com/documents/255c9cf05b9d067f561521ff/w/e2f87aac370800f1e251a02f/e/27eae525581ce693cf9ce56f)
