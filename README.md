@@ -33,6 +33,15 @@ To access the Onshape documents, please follow the links provided below:
 - [C2i B19410 PACKT 009 Type of mates](https://cad.onshape.com/documents/263f55b652ec533c3dae0a02/w/ed4b2069941c7bd9d68bb5ac/e/73da9e38ff8e5eb6228cdb0e?renderMode=0&uiState=66e5ba49b6b5e64cab4a4d58)
 - [C2i B19410 PACKT 010 Components for Assembly Example](https://cad.onshape.com/documents/783103a0179f4a9fe90d8598/w/cc4974aa4cac33111c8e5bcf/e/825666056eda44c7bc3d5d94?renderMode=0&uiState=66e5b9f1c2ab321e63be7319)
 
+### Chapter 7: Expanding Your Modeling Arsenal in Onshape
+- [C2i B19410 PACKT 011 Sweep feature](https://cad.onshape.com/documents/634ad86b07053e73a547d9af/w/b388167baf9f0d11de7a2fd4/e/6fe11e368a6e41eba688f639?renderMode=0&uiState=66e5bb2c3473ba149bbd8868)
+- [C2i B19410 PACKT 012 Sweep Profile Control](https://cad.onshape.com/documents/b4b9198ca4133e39748c3a64/w/f7576fc84fc891fcff92e783/e/b7c31917878df48ecc0ddf54?renderMode=0&uiState=66e5bb46bf9a446174776bf6)
+- [C2i B19410 PACKT 013 Loft feature](https://cad.onshape.com/documents/2ea76ceec824ef9ea9c986d5/w/60c92123c21a3f1d9c8632ae/e/9c7d30ac95aabc8c6e1316c8?renderMode=0&uiState=66e5bb68169b905dadb962eb)
+- [C2i B19410 PACKT 014 More modelling tools](https://cad.onshape.com/documents/93b470dd57283d7faf7d1ebe/w/38d5f31a117e7c55948c06ba/e/d9739354229c8596dfaad572?renderMode=0&uiState=66e5bba93473ba149bbd88ae)
+- [C2i B19410 PACKT 015 Additional Options in Extrude feature](https://cad.onshape.com/documents/e6d2ad8e92932dde7019c1f9/w/6276ec3790393ff26ccb5534/e/8143b90aa02b9865389c2a09?renderMode=0&uiState=66e5bbf0169b905dadb9635e)
+- [C2i B19410 PACKT 016 Additional Options in Chamfer feature](https://cad.onshape.com/documents/027054b81625c6bd99b60182/w/ea12cca547ad9df82fe34568/e/0bd6b78c3b37626f6d1c83c1?renderMode=0&uiState=66e5bc1fb6b5e64cab4a4db8)
+- [C2i B19410 PACKT 017 Additional Options in Fillet feature](https://cad.onshape.com/documents/59b0667131fbceda16dde72e/w/789af3521759e558b4359952/e/086b83f53db9e26952f4d40e?renderMode=0&uiState=66e5bc51b6b5e64cab4a4f3e)
+
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
 These documents will show the final result of the exercises, and in some cases, include intermediate steps.
@@ -50,6 +59,11 @@ These documents will show the final result of the exercises, and in some cases, 
 ### Chapter 6: Introduction to Assemblies and Drawings
 - [C2i B19410 PACKT Exercise 05 - My First Assemblies](https://cad.onshape.com/documents/98543377f88e52baf8957430/w/84cd3a5e8df11a0e8b0655c5/e/68230d65e03c2f020f9ad260?renderMode=0&uiState=66e5b94fbf9a446174776aa0)
 - [C2i B19410 PACKT Exercise 06 - Assembly with Linked Documents](https://cad.onshape.com/documents/1a7411dba799eae4296746d9/w/28f20d0def9312a1b0c5dcce/e/c15d467fe5636cde5d1d995a?renderMode=0&uiState=66e5b993093cfe2db8e2dad7)
+
+### Chapter 7: Expanding Your Modeling Arsenal in Onshape
+- [C2i B19410 PACKT Exercise 07 - Sweep feature](https://cad.onshape.com/documents/fdb2f2053403a521ba7c10cf/w/361491b60c87ead8cc2ade45/e/540f058d9aa0c10c33cb0119?renderMode=0&uiState=66e5bc9e3473ba149bbd8978)
+- [C2i B19410 PACKT Exercise 08 - Loft feature](https://cad.onshape.com/documents/1a9ebd27e4df5a249aa65d4f/w/8fbd125063436329224ed509/e/1c6f369fc54966a962f06e59?renderMode=0&uiState=66e5bcc93473ba149bbd89b7)
+- [C2i B19410 PACKT Exercise 09 - Basic Sketching and Modeling](https://cad.onshape.com/documents/7cceea4768e1d79b5754cfcd/w/2cf47c733b626e687cbeb91e/e/6f12b6f77e41f06646b3f27c?renderMode=0&uiState=66e5bd1fb6b5e64cab4a520b)
 
 ## Contact
 
