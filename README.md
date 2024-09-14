@@ -25,9 +25,8 @@ To access the Onshape documents, please follow the links provided below:
 - [C2i B19410 PACKT 005 Editing Sketch Entities](https://cad.onshape.com/documents/84f0330fb1103c1cf233e675/w/5bb87140e59bc5542134d352/e/91b4e2c5dc14270f645ef65b?renderMode=0&tangentEdgeStyle=1&uiState=668c62237ce3c40f92d01cab)
 
 ### Chapter 5: Multi-Part Design, Design Tools and Performance Optimization
-- [C2i B19410 PACKT 006 Multi-Part Design Fundamentals](https://cad.onshape.com/documents/aa0d671967d5af27fe825046/w/9c177b42ad8f215d5f70195a/e/86110d5b9433b7a08f9ad5fc?renderMode=0&tangentEdgeStyle=1&uiState=668c662941d5bd7556d169ee)
-- [C2i B19410 PACKT 007 Additional sketching tools](https://cad.onshape.com/documents/772738f2762c58996d203659/w/be627adb1ad4a20bc07df65c/e/01e8aef4b19d0c865b2db68c?renderMode=0&tangentEdgeStyle=1&uiState=668c6c75bc415a67c7f4e39e)
-- [C2i B19410 PACKT 008 Master Sketches](https://cad.onshape.com/documents/37fc762832a6a647790d7a53/w/75716a8353f9d0ca3371c270/e/f70f2598143f1e412b85408c?renderMode=0&tangentEdgeStyle=1&uiState=668c6f35bc415a67c7f4e47a)
+- [C2i B19410 PACKT 006 Additional sketching tools](https://cad.onshape.com/documents/772738f2762c58996d203659/w/be627adb1ad4a20bc07df65c/e/01e8aef4b19d0c865b2db68c?renderMode=0&tangentEdgeStyle=1&uiState=668c6c75bc415a67c7f4e39e)
+- [C2i B19410 PACKT 007 Master Sketches](https://cad.onshape.com/documents/37fc762832a6a647790d7a53/w/75716a8353f9d0ca3371c270/e/f70f2598143f1e412b85408c?renderMode=0&tangentEdgeStyle=1&uiState=668c6f35bc415a67c7f4e47a)
 - [C2i B19410 PACKT 009 Performance optimization 01](https://cad.onshape.com/documents/b5c182399af1949e368b6cad/w/47f26d8c9b1598ddc927809c/e/a2557c2456a76543c00dec42?renderMode=0&tangentEdgeStyle=1&uiState=668c74aa41d5bd7556d16aa8)
   
 ## Solved Exercises
@@ -41,7 +40,8 @@ These documents will show the final result of the exercises, and in some cases, 
 - [C2i B19410 PACKT Exercise 02 - Dimensioning and Constraining Sketch](https://cad.onshape.com/documents/f27dfee9fe1c58cbabd4ce88/w/593ed09bed798fa415b71156/e/cf8514c32f888f0b72879c57?renderMode=0&tangentEdgeStyle=1&uiState=668c61cf7973ef31805bfbf5)
 
 ### Chapter 5: Multi-Part Design, Design Tools and Performance Optimization
-- [C2i B19410 PACKT Exercise 03 Additional modelling tools](https://cad.onshape.com/documents/ce55a269b7655d198f43323f/w/80542218023627a9d9519e77/e/53001389ea66845d1db4bf1d?renderMode=0&tangentEdgeStyle=1&uiState=668c6c268220df137728663e)
+- [C2i B19410 PACKT Exercise 03 - Multi-Part Design Fundamentals](https://cad.onshape.com/documents/aa0d671967d5af27fe825046/w/9c177b42ad8f215d5f70195a/e/86110d5b9433b7a08f9ad5fc?renderMode=0&tangentEdgeStyle=1&uiState=668c662941d5bd7556d169ee)
+- [C2i B19410 PACKT Exercise 04 Additional modelling tools](https://cad.onshape.com/documents/ce55a269b7655d198f43323f/w/80542218023627a9d9519e77/e/53001389ea66845d1db4bf1d?renderMode=0&tangentEdgeStyle=1&uiState=668c6c268220df137728663e)
 
 ## Contact
 
