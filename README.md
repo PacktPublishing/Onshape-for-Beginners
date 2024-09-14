@@ -30,6 +30,7 @@ To access the Onshape documents, please follow the links provided below:
 - [C2i B19410 PACKT 008 Performance optimization 01](https://cad.onshape.com/documents/b5c182399af1949e368b6cad/w/47f26d8c9b1598ddc927809c/e/a2557c2456a76543c00dec42?renderMode=0&tangentEdgeStyle=1&uiState=668c74aa41d5bd7556d16aa8)
 
 ### Chapter 6: Introduction to Assemblies and Drawings
+- [C2i B19410 PACKT 009 Type of mates](https://cad.onshape.com/documents/263f55b652ec533c3dae0a02/w/ed4b2069941c7bd9d68bb5ac/e/73da9e38ff8e5eb6228cdb0e?renderMode=0&uiState=66e5ba49b6b5e64cab4a4d58)
 - [C2i B19410 PACKT 010 Components for Assembly Example](https://cad.onshape.com/documents/783103a0179f4a9fe90d8598/w/cc4974aa4cac33111c8e5bcf/e/825666056eda44c7bc3d5d94?renderMode=0&uiState=66e5b9f1c2ab321e63be7319)
 
 ## Solved Exercises
