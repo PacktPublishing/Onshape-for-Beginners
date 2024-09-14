@@ -28,7 +28,10 @@ To access the Onshape documents, please follow the links provided below:
 - [C2i B19410 PACKT 006 Additional sketching tools](https://cad.onshape.com/documents/772738f2762c58996d203659/w/be627adb1ad4a20bc07df65c/e/01e8aef4b19d0c865b2db68c?renderMode=0&tangentEdgeStyle=1&uiState=668c6c75bc415a67c7f4e39e)
 - [C2i B19410 PACKT 007 Master Sketches](https://cad.onshape.com/documents/37fc762832a6a647790d7a53/w/75716a8353f9d0ca3371c270/e/f70f2598143f1e412b85408c?renderMode=0&tangentEdgeStyle=1&uiState=668c6f35bc415a67c7f4e47a)
 - [C2i B19410 PACKT 008 Performance optimization 01](https://cad.onshape.com/documents/b5c182399af1949e368b6cad/w/47f26d8c9b1598ddc927809c/e/a2557c2456a76543c00dec42?renderMode=0&tangentEdgeStyle=1&uiState=668c74aa41d5bd7556d16aa8)
-  
+
+### Chapter 6: Introduction to Assemblies and Drawings
+- [C2i B19410 PACKT 010 Components for Assembly Example](https://cad.onshape.com/documents/783103a0179f4a9fe90d8598/w/cc4974aa4cac33111c8e5bcf/e/825666056eda44c7bc3d5d94?renderMode=0&uiState=66e5b9f1c2ab321e63be7319)
+
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
 These documents will show the final result of the exercises, and in some cases, include intermediate steps.
@@ -42,6 +45,10 @@ These documents will show the final result of the exercises, and in some cases, 
 ### Chapter 5: Multi-Part Design, Design Tools and Performance Optimization
 - [C2i B19410 PACKT Exercise 03 - Multi-Part Design Fundamentals](https://cad.onshape.com/documents/aa0d671967d5af27fe825046/w/9c177b42ad8f215d5f70195a/e/86110d5b9433b7a08f9ad5fc?renderMode=0&tangentEdgeStyle=1&uiState=668c662941d5bd7556d169ee)
 - [C2i B19410 PACKT Exercise 04 Additional modelling tools](https://cad.onshape.com/documents/ce55a269b7655d198f43323f/w/80542218023627a9d9519e77/e/53001389ea66845d1db4bf1d?renderMode=0&tangentEdgeStyle=1&uiState=668c6c268220df137728663e)
+
+### Chapter 6: Introduction to Assemblies and Drawings
+- [C2i B19410 PACKT Exercise 05 - My First Assemblies](https://cad.onshape.com/documents/98543377f88e52baf8957430/w/84cd3a5e8df11a0e8b0655c5/e/68230d65e03c2f020f9ad260?renderMode=0&uiState=66e5b94fbf9a446174776aa0)
+- [C2i B19410 PACKT Exercise 06 - Assembly with Linked Documents](https://cad.onshape.com/documents/1a7411dba799eae4296746d9/w/28f20d0def9312a1b0c5dcce/e/c15d467fe5636cde5d1d995a?renderMode=0&uiState=66e5b993093cfe2db8e2dad7)
 
 ## Contact
 
