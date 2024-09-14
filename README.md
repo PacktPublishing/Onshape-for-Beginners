@@ -65,6 +65,16 @@ These documents will show the final result of the exercises, and in some cases, 
 - [C2i B19410 PACKT Exercise 08 - Loft feature](https://cad.onshape.com/documents/1a9ebd27e4df5a249aa65d4f/w/8fbd125063436329224ed509/e/1c6f369fc54966a962f06e59?renderMode=0&uiState=66e5bcc93473ba149bbd89b7)
 - [C2i B19410 PACKT Exercise 09 - Basic Sketching and Modeling](https://cad.onshape.com/documents/7cceea4768e1d79b5754cfcd/w/2cf47c733b626e687cbeb91e/e/6f12b6f77e41f06646b3f27c?renderMode=0&uiState=66e5bd1fb6b5e64cab4a520b)
 
+## FeatureScripts
+This section includes links to various FeatureScripts used throughout the book. These macros, created by the author, are part of the tools included in the [Onshape C2i Business program](https://www.c2i.es/en_GB/onshape-c2i-business).
+FeatureScripts extend the modeling capabilities in Onshape, allowing you to create custom features and automate repetitive tasks. Feel free to explore these scripts to enhance your design workflow.
+- [C2i B19410 PACKT C2i FS Full Fillet](https://cad.onshape.com/documents/fa301370c47d688bbb46c5ba/w/15de101bb15601302a38188a/e/7775ddb5d1e1184bdb925ae5)
+
+## Other tools and utilities
+Here, you'll find links to additional tools and utilities used throughout the book.
+- [C2i B19410 PACKT ISO Drawing Templates](https://cad.onshape.com/documents/27ad53f1e19d337f096c66d4/w/723cb25d35df47b22612a78d/e/2ee5fc7b3df14400d72bf1e0)
+- [C2i B19410 PACKT std.mat](https://cad.onshape.com/documents/255c9cf05b9d067f561521ff/w/e2f87aac370800f1e251a02f/e/27eae525581ce693cf9ce56f)
+
 ## Contact
 
 For any questions or additional access requests, please email [emagdalena@c2i.es](mailto:emagdalena@c2i.es) with the subject "Request for Access PACKT B19410 Onshape".
