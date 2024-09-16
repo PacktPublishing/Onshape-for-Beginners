@@ -72,8 +72,17 @@ FeatureScripts extend the modeling capabilities in Onshape, allowing you to crea
 
 ## Other tools
 Here, you'll find links to additional tools and utilities used throughout the book.
+
+### Chapter 6: Introduction to Assemblies and Drawings
 - [C2i B19410 PACKT ISO Drawing Templates](https://cad.onshape.com/documents/27ad53f1e19d337f096c66d4/w/723cb25d35df47b22612a78d/e/2ee5fc7b3df14400d72bf1e0)
+
+### Chapter 7: Expanding Your Modeling Arsenal in Onshape
 - [C2i B19410 PACKT std.mat](https://cad.onshape.com/documents/255c9cf05b9d067f561521ff/w/e2f87aac370800f1e251a02f/e/27eae525581ce693cf9ce56f)
+
+### Chapter 8: Importing, Exporting, and 3D Printing Your Design
+- [C2i B19410 PACKT Exercise 10 - Import CAD files.x_t](https://github.com/PacktPublishing/Onshape-for-Beginners/blob/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010%20-%20Import%20CAD%20files.x_t)
+- [C2i B19410 PACKT Exercise 10 Sketch.dwg](https://github.com/PacktPublishing/Onshape-for-Beginners/blob/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010%20Sketch.dwg)
+- [C2i B19410 PACKT std.mat](Tools/C2i B19410 PACKT Exercise 10 Sketch.dwg)
 
 ## Contact
 
