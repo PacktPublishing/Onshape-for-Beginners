@@ -54,7 +54,7 @@ These documents will show the final result of the exercises, and in some cases, 
 
 ### Chapter 5: Multi-Part Design, Design Tools and Performance Optimization
 - [C2i B19410 PACKT Exercise 03 - Multi-Part Design Fundamentals](https://cad.onshape.com/documents/aa0d671967d5af27fe825046/w/9c177b42ad8f215d5f70195a/e/86110d5b9433b7a08f9ad5fc?renderMode=0&tangentEdgeStyle=1&uiState=668c662941d5bd7556d169ee)
-- [C2i B19410 PACKT Exercise 04 Additional modelling tools](https://cad.onshape.com/documents/ce55a269b7655d198f43323f/w/80542218023627a9d9519e77/e/53001389ea66845d1db4bf1d?renderMode=0&tangentEdgeStyle=1&uiState=668c6c268220df137728663e)
+- [C2i B19410 PACKT Exercise 04 - Additional modelling tools](https://cad.onshape.com/documents/ce55a269b7655d198f43323f/w/80542218023627a9d9519e77/e/53001389ea66845d1db4bf1d?renderMode=0&tangentEdgeStyle=1&uiState=668c6c268220df137728663e)
 
 ### Chapter 6: Introduction to Assemblies and Drawings
 - [C2i B19410 PACKT Exercise 05 - My First Assemblies](https://cad.onshape.com/documents/98543377f88e52baf8957430/w/84cd3a5e8df11a0e8b0655c5/e/68230d65e03c2f020f9ad260?renderMode=0&uiState=66e5b94fbf9a446174776aa0)
@@ -81,9 +81,6 @@ Here, you'll find links to additional tools and utilities used throughout the bo
 
 ### Chapter 8: Importing, Exporting, and 3D Printing Your Design
 - [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
-- [C2i B19410 PACKT Exercise 10 - Import CAD files.x_t](https://raw.githubusercontent.com/PacktPublishing/Onshape-for-Beginners/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010%20-%20Import%20CAD%20files.x_t)
-- [C2i B19410 PACKT Exercise 10 Sketch.dwg](https://github.com/PacktPublishing/Onshape-for-Beginners/blob/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010%20Sketch.dwg?raw=true)
-- [C2i B19410 PACKT Exercise 10 Image.png](https://github.com/PacktPublishing/Onshape-for-Beginners/blob/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010%20-%20Import%20CAD%20files%20Image.png?raw=true)
 
 ## Contact
 
