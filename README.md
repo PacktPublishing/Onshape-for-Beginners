@@ -81,6 +81,7 @@ Here, you'll find links to additional tools and utilities used throughout the bo
 
 ### Chapter 8: Importing, Exporting, and 3D Printing Your Design
 - [C2i B19410 PACKT Exercise 10 - Import CAD files.x_t](https://github.com/PacktPublishing/Onshape-for-Beginners/blob/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010%20-%20Import%20CAD%20files.x_t)
+- [C2i B19410 PACKT Exercise 10 - Import CAD files.x_t](https://raw.githubusercontent.com/PacktPublishing/Onshape-for-Beginners/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010%20-%20Import%20CAD%20files.x_t)
 - [C2i B19410 PACKT Exercise 10 Sketch.dwg](https://github.com/PacktPublishing/Onshape-for-Beginners/blob/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010%20Sketch.dwg)
 - [C2i B19410 PACKT std.mat](Tools/C2i B19410 PACKT Exercise 10 Sketch.dwg)
 
