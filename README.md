@@ -44,6 +44,7 @@ To access the Onshape documents, please follow the links provided below:
 
 ### Chapter 8: Importing, Exporting, and 3D Printing Your Design
 - [C2i B19410 PACKT 018 Enclose, Boolean and Composite parts](https://cad.onshape.com/documents/83551a8c987c4e8f41ee663b/w/c2db8ffe1839390ca0b3ae62/e/53a54fff6ad57247be502b24?renderMode=0&uiState=66eb0141f90ab42a4ae1a075)
+- [C2i B19410 PACKT 019 Import files in Sketch](https://cad.onshape.com/documents/26dc739b97d16e6f0f1a2152/w/8b74f9a9b50ae33e124eac48/e/2877a3649926a47c786d99aa?renderMode=0&uiState=66eb0686d1c4fe4361696d10)
 
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
@@ -88,8 +89,6 @@ Here, you'll find links to additional tools and utilities used throughout the bo
 - [C2i B19410 PACKT std.mat](https://cad.onshape.com/documents/255c9cf05b9d067f561521ff/w/e2f87aac370800f1e251a02f/e/27eae525581ce693cf9ce56f)
 
 ### Chapter 8: Importing, Exporting, and 3D Printing Your Design
-- [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
-- [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
 - [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
 
 ## Contact
