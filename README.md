@@ -45,6 +45,7 @@ To access the Onshape documents, please follow the links provided below:
 ### Chapter 8: Importing, Exporting, and 3D Printing Your Design
 - [C2i B19410 PACKT 018 Enclose, Boolean and Composite parts](https://cad.onshape.com/documents/83551a8c987c4e8f41ee663b/w/c2db8ffe1839390ca0b3ae62/e/53a54fff6ad57247be502b24?renderMode=0&uiState=66eb0141f90ab42a4ae1a075)
 - [C2i B19410 PACKT 019 Import files in Sketch](https://cad.onshape.com/documents/26dc739b97d16e6f0f1a2152/w/8b74f9a9b50ae33e124eac48/e/2877a3649926a47c786d99aa?renderMode=0&uiState=66eb0686d1c4fe4361696d10)
+- [C2i B19410 PACKT 020 Direct editing tools](https://cad.onshape.com/documents/61843d77f6f3f3baf58a53ed/w/fd34b5a7e9a50db0e1c1fb87/e/fc5337eceab82cd60074d3a5?renderMode=0&uiState=66eb0c098c7a962d2de69be5)
 
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
