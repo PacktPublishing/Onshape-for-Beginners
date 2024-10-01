@@ -47,6 +47,10 @@ To access the Onshape documents, please follow the links provided below:
 - [C2i B19410 PACKT 019 Import files in Sketch](https://cad.onshape.com/documents/26dc739b97d16e6f0f1a2152/w/8b74f9a9b50ae33e124eac48/e/2877a3649926a47c786d99aa?renderMode=0&uiState=66eb0686d1c4fe4361696d10)
 - [C2i B19410 PACKT 020 Direct editing tools](https://cad.onshape.com/documents/61843d77f6f3f3baf58a53ed/w/fd34b5a7e9a50db0e1c1fb87/e/fc5337eceab82cd60074d3a5?renderMode=0&uiState=66eb0c098c7a962d2de69be5)
 
+### Chapter 9: Document Management: Branching, Versions, and Revisions
+- [C2i B19410 PACKT Exercise 10 - Import CAD files.x_t](https://cad.onshape.com/documents/7f916e5ef4913e90bf1022ab/w/893b2877e221421ad688abc5/e/4873c599eb24f8186ac54892?renderMode=0&uiState=66eb033d1d7bb04d3aa066ff)
+
+
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
 These documents will show the final result of the exercises, and in some cases, include intermediate steps.
@@ -75,6 +79,10 @@ These documents will show the final result of the exercises, and in some cases, 
 - [C2i B19410 PACKT Exercise 11 - Mixed modeling](https://cad.onshape.com/documents/1ca73992ca8f743dc634cfe9/w/80d6876e746886ddd1b2b843/e/85aed2e05b220c3a9c63b9ca?renderMode=0&uiState=66eb03818c7a962d2de68a00)
 - [C2i B19410 PACKT Exercise 12 - Direct Editing](https://cad.onshape.com/documents/4c302ef0b5a774209b7eb5e9/w/34911374c835e1b538307185/e/ab561a403e7ca14092d75373?renderMode=0&uiState=66eb03c8f90ab42a4ae1a1c3)
 
+### Chapter 9: Document Management: Branching, Versions, and Revisions
+- [C2i B19410 PACKT Exercise 13 - Branches and Versions](https://cad.onshape.com/documents/c3ebbfc3594dfff900f738d0/w/fd36eac3c149b9618cf408e3/e/656cca72f6de1d0f55f78c7c?renderMode=0&tangentEdgeStyle=1&uiState=66fbaaf1247ae31d513849ed)
+
+
 ## FeatureScripts
 This section includes links to various FeatureScripts used throughout the book. These macros, created by the author, are part of the tools included in the [Onshape C2i Business program](https://www.c2i.es/en_GB/onshape-c2i-business).
 FeatureScripts extend the modeling capabilities in Onshape, allowing you to create custom features and automate repetitive tasks. Feel free to explore these scripts to enhance your design workflow.
@@ -90,6 +98,9 @@ Here, you'll find links to additional tools and utilities used throughout the bo
 - [C2i B19410 PACKT std.mat](https://cad.onshape.com/documents/255c9cf05b9d067f561521ff/w/e2f87aac370800f1e251a02f/e/27eae525581ce693cf9ce56f)
 
 ### Chapter 8: Importing, Exporting, and 3D Printing Your Design
+- [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
+
+### Chapter 9: Document Management: Branching, Versions, and Revisions
 - [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
 
 ## Contact
