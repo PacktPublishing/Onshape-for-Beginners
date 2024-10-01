@@ -48,8 +48,12 @@ To access the Onshape documents, please follow the links provided below:
 - [C2i B19410 PACKT 020 Direct editing tools](https://cad.onshape.com/documents/61843d77f6f3f3baf58a53ed/w/fd34b5a7e9a50db0e1c1fb87/e/fc5337eceab82cd60074d3a5?renderMode=0&uiState=66eb0c098c7a962d2de69be5)
 
 ### Chapter 9: Document Management: Branching, Versions, and Revisions
-- [C2i B19410 PACKT Exercise 10 - Import CAD files.x_t](https://cad.onshape.com/documents/7f916e5ef4913e90bf1022ab/w/893b2877e221421ad688abc5/e/4873c599eb24f8186ac54892?renderMode=0&uiState=66eb033d1d7bb04d3aa066ff)
-
+- [C2i B19410 PACKT 021 L-Shaped Packaging Plant](https://cad.onshape.com/documents/a4faa3bae9154a9b515f8a35/w/d38e263021fc8d452fb0396f/e/edd0e0e1f47781a33964f3c1?renderMode=0&tangentEdgeStyle=1&uiState=66fbacd15956ae3baac5737f)
+- [C2i B19410 PACKT 022 GitFlow Cash Register](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
+- [C2i B19410 PACKT 023 Roller Path](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
+  - [Roller Ø50 Shaft Ø10 L=560 mm Green](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
+  - [Tube Caps 40 mmx1.5](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
+  - [Articulated Leg D44 M12x85](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
 
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
