@@ -50,10 +50,10 @@ To access the Onshape documents, please follow the links provided below:
 ### Chapter 9: Document Management: Branching, Versions, and Revisions
 - [C2i B19410 PACKT 021 L-Shaped Packaging Plant](https://cad.onshape.com/documents/a4faa3bae9154a9b515f8a35/w/d38e263021fc8d452fb0396f/e/edd0e0e1f47781a33964f3c1?renderMode=0&tangentEdgeStyle=1&uiState=66fbacd15956ae3baac5737f)
 - [C2i B19410 PACKT 022 GitFlow Cash Register](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
-- [C2i B19410 PACKT 023 Roller Path](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
-  - [Roller Ø50 Shaft Ø10 L=560 mm Green](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
-  - [Tube Caps 40 mmx1.5](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
-  - [Articulated Leg D44 M12x85](https://cad.onshape.com/documents/d3099f6bbfa3a7d4668252da/w/8e316885d08f2a378fe8241a/e/5bfc13d581cf8b1fe5a197b4?renderMode=0&tangentEdgeStyle=1&uiState=66fbabe354fb0970a4a8501a)
+- [C2i B19410 PACKT 023 Roller Path](https://cad.onshape.com/documents/118283072df54e3b6c378a91/w/2d596b9e3011ca72415dce09/e/d69a8591c6c4ebc967bb102b?renderMode=0&tangentEdgeStyle=1&uiState=66fbb491c5e88579a9035440)
+  - [Roller Ø50 Shaft Ø10 L=560 mm Green](https://cad.onshape.com/documents/3299ac29e6e8ae16323fceaf/w/6d41e455db80c9bc836936f9/e/8333e000463a0ff42ed05a31?renderMode=0&tangentEdgeStyle=1&uiState=66fbb4f15956ae3baac58d4e)
+  - [Tube Caps 40 mmx1.5](https://cad.onshape.com/documents/d7ebe0383e91d13d11591ae0/w/2ba9ddc6b0911a3cc4f68d81/e/75af1925f7a56b9475be8aab?renderMode=0&tangentEdgeStyle=1&uiState=66fbb50dc5e88579a9035497)
+  - [Articulated Leg D44 M12x85](https://cad.onshape.com/documents/72dd60a519cca094717eab1f/w/9ec40225f3de76f23abb649d/e/622edfa5a7e5568eb8f1b966?renderMode=0&tangentEdgeStyle=1&uiState=66fbb4c1b4c49b52e4d7c8ce)
 
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
@@ -85,12 +85,13 @@ These documents will show the final result of the exercises, and in some cases, 
 
 ### Chapter 9: Document Management: Branching, Versions, and Revisions
 - [C2i B19410 PACKT Exercise 13 - Branches and Versions](https://cad.onshape.com/documents/c3ebbfc3594dfff900f738d0/w/fd36eac3c149b9618cf408e3/e/656cca72f6de1d0f55f78c7c?renderMode=0&tangentEdgeStyle=1&uiState=66fbaaf1247ae31d513849ed)
-
+- [C2i B19410 PACKT Exercise 14 - Revisions and Release Management](https://cad.onshape.com/documents/dfa12eb56cbeda0a63ddd117/w/8cbdab7c0c996170e7762de5/e/d2d026040902c1f56d394502?renderMode=0&tangentEdgeStyle=1&uiState=66fbb44ccdf688580a51e571)
 
 ## FeatureScripts
 This section includes links to various FeatureScripts used throughout the book. These macros, created by the author, are part of the tools included in the [Onshape C2i Business program](https://www.c2i.es/en_GB/onshape-c2i-business).
 FeatureScripts extend the modeling capabilities in Onshape, allowing you to create custom features and automate repetitive tasks. Feel free to explore these scripts to enhance your design workflow.
-- [C2i B19410 PACKT C2i FS Full Fillet](https://cad.onshape.com/documents/fa301370c47d688bbb46c5ba/w/15de101bb15601302a38188a/e/7775ddb5d1e1184bdb925ae5)
+- [C2i B19410 PACKT - C2i FS Full Fillet](https://cad.onshape.com/documents/fa301370c47d688bbb46c5ba/w/15de101bb15601302a38188a/e/7775ddb5d1e1184bdb925ae5)
+- [C2i B19410 PACKT - C2i FS EN Cosmetic Thread](https://cad.onshape.com/documents/b95584c1a212acc80169a0a5/w/bd2d872be4d450358c60272a/e/d0f875bf9d17e4e2d8e3a1d4)
 
 ## Other tools
 Here, you'll find links to additional tools and utilities used throughout the book.
@@ -102,9 +103,6 @@ Here, you'll find links to additional tools and utilities used throughout the bo
 - [C2i B19410 PACKT std.mat](https://cad.onshape.com/documents/255c9cf05b9d067f561521ff/w/e2f87aac370800f1e251a02f/e/27eae525581ce693cf9ce56f)
 
 ### Chapter 8: Importing, Exporting, and 3D Printing Your Design
-- [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
-
-### Chapter 9: Document Management: Branching, Versions, and Revisions
 - [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
 
 ## Contact
