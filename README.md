@@ -55,6 +55,9 @@ To access the Onshape documents, please follow the links provided below:
   - [Tube Caps 40 mmx1.5](https://cad.onshape.com/documents/d7ebe0383e91d13d11591ae0/w/2ba9ddc6b0911a3cc4f68d81/e/75af1925f7a56b9475be8aab?renderMode=0&tangentEdgeStyle=1&uiState=66fbb50dc5e88579a9035497)
   - [Articulated Leg D44 M12x85](https://cad.onshape.com/documents/72dd60a519cca094717eab1f/w/9ec40225f3de76f23abb649d/e/622edfa5a7e5568eb8f1b966?renderMode=0&tangentEdgeStyle=1&uiState=66fbb4c1b4c49b52e4d7c8ce)
 
+### Chapter 10: Bill of Materials and Design-Related Information
+
+
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
 These documents will show the final result of the exercises, and in some cases, include intermediate steps.
@@ -87,7 +90,7 @@ These documents will show the final result of the exercises, and in some cases, 
 - [C2i B19410 PACKT Exercise 13 - Branches and Versions](https://cad.onshape.com/documents/c3ebbfc3594dfff900f738d0/w/fd36eac3c149b9618cf408e3/e/656cca72f6de1d0f55f78c7c?renderMode=0&tangentEdgeStyle=1&uiState=66fbaaf1247ae31d513849ed)
 - [C2i B19410 PACKT Exercise 14 - Revisions and Release Management](https://cad.onshape.com/documents/dfa12eb56cbeda0a63ddd117/w/8cbdab7c0c996170e7762de5/e/d2d026040902c1f56d394502?renderMode=0&tangentEdgeStyle=1&uiState=66fbb44ccdf688580a51e571)
 
-### Chapter 10: Document Management: Branching, Versions, and Revisions
+### Chapter 10: Bill of Materials and Design-Related Information
 - [C2i B19410 PACKT Exercise 15 - Roller Properties](https://cad.onshape.com/documents/a8a6d347efae6e6698eed382/w/13c15100ac62f1df8bda07fe/e/9c124df86ce079c75585d74c?renderMode=0&tangentEdgeStyle=1&uiState=66ffd6de75e01546cd899352)
 
 ## FeatureScripts
