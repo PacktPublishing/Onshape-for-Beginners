@@ -92,6 +92,7 @@ This section includes links to various FeatureScripts used throughout the book. 
 FeatureScripts extend the modeling capabilities in Onshape, allowing you to create custom features and automate repetitive tasks. Feel free to explore these scripts to enhance your design workflow.
 - [C2i B19410 PACKT - C2i FS Full Fillet](https://cad.onshape.com/documents/fa301370c47d688bbb46c5ba/w/15de101bb15601302a38188a/e/7775ddb5d1e1184bdb925ae5)
 - [C2i B19410 PACKT - C2i FS Cosmetic Thread](https://cad.onshape.com/documents/b95584c1a212acc80169a0a5/w/bd2d872be4d450358c60272a/e/d0f875bf9d17e4e2d8e3a1d4)
+- [C2i B19410 PACKT - C2i FS Assign Color](https://cad.onshape.com/documents/99475b5fb01d72798b735f3b/w/605107f0e5ce4908dddd7ab5/e/b8f15c00f6e87204a29de376)
 
 ## Other tools
 Here, you'll find links to additional tools and utilities used throughout the book.
@@ -104,6 +105,11 @@ Here, you'll find links to additional tools and utilities used throughout the bo
 
 ### Chapter 8: Importing, Exporting, and 3D Printing Your Design
 - [C2i B19410 PACKT Exercise 10 - Import CAD files.zip](https://github.com/PacktPublishing/Onshape-for-Beginners/raw/main/Tools/C2i%20B19410%20PACKT%20Exercise%2010.zip?raw=true)
+
+### Chapter 10: Bill of Materials and Design-Related Information
+- [Onshape C2i Business Video](https://youtu.be/3D9H2KV9tEk?si=l2IPRFYWgrc-fK5Y)
+- [C2i FS Assign Color v6.0 video](https://youtu.be/XpQaxfvAsp4?si=xqykm5WhsxXU_p0s)
+- [C2i FS Calculate Limits v14.0 video](https://youtu.be/zVgNZH4IrHk?si=gFgOQECZVU_TQiJn)
 
 ## Contact
 
