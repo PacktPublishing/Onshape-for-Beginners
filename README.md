@@ -91,7 +91,7 @@ These documents will show the final result of the exercises, and in some cases, 
 This section includes links to various FeatureScripts used throughout the book. These macros, created by the author, are part of the tools included in the [Onshape C2i Business program](https://www.c2i.es/en_GB/onshape-c2i-business).
 FeatureScripts extend the modeling capabilities in Onshape, allowing you to create custom features and automate repetitive tasks. Feel free to explore these scripts to enhance your design workflow.
 - [C2i B19410 PACKT - C2i FS Full Fillet](https://cad.onshape.com/documents/fa301370c47d688bbb46c5ba/w/15de101bb15601302a38188a/e/7775ddb5d1e1184bdb925ae5)
-- [C2i B19410 PACKT - C2i FS EN Cosmetic Thread](https://cad.onshape.com/documents/b95584c1a212acc80169a0a5/w/bd2d872be4d450358c60272a/e/d0f875bf9d17e4e2d8e3a1d4)
+- [C2i B19410 PACKT - C2i FS Cosmetic Thread](https://cad.onshape.com/documents/b95584c1a212acc80169a0a5/w/bd2d872be4d450358c60272a/e/d0f875bf9d17e4e2d8e3a1d4)
 
 ## Other tools
 Here, you'll find links to additional tools and utilities used throughout the book.
