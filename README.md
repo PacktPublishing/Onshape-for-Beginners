@@ -57,6 +57,8 @@ To access the Onshape documents, please follow the links provided below:
 
 ### Chapter 10: Bill of Materials and Design-Related Information
 
+### Chapter 11: Collaboration, Technical Support, and Onshape Mobile
+- [C2i B19410 PACKT 024 Roller Path Publication](https://cad.onshape.com/publications/31a1a8360ea0ad249b34ee17/w/0a200bca8cd2694dd6d2d9c9/e/43acd030e5e844dcba7eaffd?renderMode=0&tangentEdgeStyle=1&uiState=670197f11e59b230930b62ac)
 
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
@@ -116,6 +118,13 @@ Here, you'll find links to additional tools and utilities used throughout the bo
 - [Onshape C2i Business Video](https://youtu.be/3D9H2KV9tEk?si=l2IPRFYWgrc-fK5Y)
 - [C2i FS Assign Color v6.0 video](https://youtu.be/XpQaxfvAsp4?si=xqykm5WhsxXU_p0s)
 - [C2i FS Calculate Limits v14.0 video](https://youtu.be/zVgNZH4IrHk?si=gFgOQECZVU_TQiJn)
+
+### Chapter 11: Collaboration, Technical Support, and Onshape Mobile
+- [Onshape forums](https://forum.onshape.com/)
+- [Onshape Improvement requests](https://forum.onshape.com/categories/improvement-voting)
+- [Onshape Changelog](https://www.onshape.com/en/changelog/)
+- [Onshape C2i Business](https://www.c2i.es/en_GB/onshape-c2i-business)
+- [Onshape Mobile videos](https://cad.onshape.com/help/Content/Videos_And.htm)
 
 ## Contact
 
