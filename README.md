@@ -37,7 +37,7 @@ To access the Onshape documents, please follow the links provided below:
 - [C2i B19410 PACKT 011 Sweep feature](https://cad.onshape.com/documents/634ad86b07053e73a547d9af/w/b388167baf9f0d11de7a2fd4/e/6fe11e368a6e41eba688f639?renderMode=0&uiState=66e5bb2c3473ba149bbd8868)
 - [C2i B19410 PACKT 012 Sweep Profile Control](https://cad.onshape.com/documents/b4b9198ca4133e39748c3a64/w/f7576fc84fc891fcff92e783/e/b7c31917878df48ecc0ddf54?renderMode=0&uiState=66e5bb46bf9a446174776bf6)
 - [C2i B19410 PACKT 013 Loft feature](https://cad.onshape.com/documents/2ea76ceec824ef9ea9c986d5/w/60c92123c21a3f1d9c8632ae/e/9c7d30ac95aabc8c6e1316c8?renderMode=0&uiState=66e5bb68169b905dadb962eb)
-- [C2i B19410 PACKT 014 More modelling tools](https://cad.onshape.com/documents/93b470dd57283d7faf7d1ebe/w/38d5f31a117e7c55948c06ba/e/d9739354229c8596dfaad572?renderMode=0&uiState=66e5bba93473ba149bbd88ae)
+- [C2i B19410 PACKT 014 More modeling tools](https://cad.onshape.com/documents/93b470dd57283d7faf7d1ebe/w/38d5f31a117e7c55948c06ba/e/d9739354229c8596dfaad572?renderMode=0&uiState=66e5bba93473ba149bbd88ae)
 - [C2i B19410 PACKT 015 Additional Options in Extrude feature](https://cad.onshape.com/documents/e6d2ad8e92932dde7019c1f9/w/6276ec3790393ff26ccb5534/e/8143b90aa02b9865389c2a09?renderMode=0&uiState=66e5bbf0169b905dadb9635e)
 - [C2i B19410 PACKT 016 Additional Options in Chamfer feature](https://cad.onshape.com/documents/027054b81625c6bd99b60182/w/ea12cca547ad9df82fe34568/e/0bd6b78c3b37626f6d1c83c1?renderMode=0&uiState=66e5bc1fb6b5e64cab4a4db8)
 - [C2i B19410 PACKT 017 Additional Options in Fillet feature](https://cad.onshape.com/documents/59b0667131fbceda16dde72e/w/789af3521759e558b4359952/e/086b83f53db9e26952f4d40e?renderMode=0&uiState=66e5bc51b6b5e64cab4a4f3e)
@@ -72,7 +72,7 @@ These documents will show the final result of the exercises, and in some cases, 
 
 ### Chapter 5: Multi-Part Design, Design Tools and Performance Optimization
 - [C2i B19410 PACKT Exercise 03 - Multi-Part Design Fundamentals](https://cad.onshape.com/documents/aa0d671967d5af27fe825046/w/9c177b42ad8f215d5f70195a/e/86110d5b9433b7a08f9ad5fc?renderMode=0&tangentEdgeStyle=1&uiState=668c662941d5bd7556d169ee)
-- [C2i B19410 PACKT Exercise 04 - Additional modelling tools](https://cad.onshape.com/documents/ce55a269b7655d198f43323f/w/80542218023627a9d9519e77/e/53001389ea66845d1db4bf1d?renderMode=0&tangentEdgeStyle=1&uiState=668c6c268220df137728663e)
+- [C2i B19410 PACKT Exercise 04 - Additional modeling tools](https://cad.onshape.com/documents/ce55a269b7655d198f43323f/w/80542218023627a9d9519e77/e/53001389ea66845d1db4bf1d?renderMode=0&tangentEdgeStyle=1&uiState=668c6c268220df137728663e)
 
 ### Chapter 6: Introduction to Assemblies and Drawings
 - [C2i B19410 PACKT Exercise 05 - My First Assemblies](https://cad.onshape.com/documents/98543377f88e52baf8957430/w/84cd3a5e8df11a0e8b0655c5/e/68230d65e03c2f020f9ad260?renderMode=0&uiState=66e5b94fbf9a446174776aa0)
