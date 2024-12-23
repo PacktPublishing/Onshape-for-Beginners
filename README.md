@@ -95,6 +95,9 @@ These documents will show the final result of the exercises, and in some cases, 
 ### Chapter 10: Bill of Materials and Design-Related Information
 - [C2i B19410 PACKT Exercise 15 - Roller Properties](https://cad.onshape.com/documents/a8a6d347efae6e6698eed382/w/13c15100ac62f1df8bda07fe/e/9c124df86ce079c75585d74c?renderMode=0&tangentEdgeStyle=1&uiState=66ffd6de75e01546cd899352)
 
+### Chapter 10: Bill of Materials and Design-Related Information
+- [C2i B19410 PACKT Exercise 16 - Roller Configurations](https://cad.onshape.com/documents/ef2e14b25c8a5aad87864409/w/cf2570776ae5a00087896b81/e/d6a2b80d44edc08a92460f0e?configuration=List_oFGM5vEIcCKTD5%3DDefault&renderMode=0&tangentEdgeStyle=1&rightPanel=configPanel&uiState=6769de87bd741b3df1b1c83c)
+
 ## FeatureScripts
 This section includes links to various FeatureScripts used throughout the book. These macros, created by the author, are part of the tools included in the [Onshape C2i Business program](https://www.c2i.es/en_GB/onshape-c2i-business).
 FeatureScripts extend the modeling capabilities in Onshape, allowing you to create custom features and automate repetitive tasks. Feel free to explore these scripts to enhance your design workflow.
