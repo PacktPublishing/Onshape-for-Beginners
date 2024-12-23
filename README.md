@@ -101,6 +101,7 @@ FeatureScripts extend the modeling capabilities in Onshape, allowing you to crea
 - [C2i B19410 PACKT - C2i FS Full Fillet](https://cad.onshape.com/documents/fa301370c47d688bbb46c5ba/w/15de101bb15601302a38188a/e/7775ddb5d1e1184bdb925ae5)
 - [C2i B19410 PACKT - C2i FS Cosmetic Thread](https://cad.onshape.com/documents/b95584c1a212acc80169a0a5/w/bd2d872be4d450358c60272a/e/d0f875bf9d17e4e2d8e3a1d4)
 - [C2i B19410 PACKT - C2i FS Assign Color](https://cad.onshape.com/documents/99475b5fb01d72798b735f3b/w/605107f0e5ce4908dddd7ab5/e/b8f15c00f6e87204a29de376)
+- [C2i B19410 PACKT - C2i FS Set Properties](https://cad.onshape.com/documents/57e35f0452df0ebefe225ffb/w/a41d4f15712ed3595e96dc02/e/4ddde259bd99ba8b12dadb8e)
 
 ## Other tools
 Here, you'll find links to additional tools and utilities used throughout the book.
